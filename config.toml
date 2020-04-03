@@ -1,0 +1,10 @@
+Appname = "webware-factory"
+Version = "1.0"
+
+[Db]
+ConnectionString = "localhost:27017"
+User = ""
+Password = ""
+Dbname = "vendors"
+CollectionName= ""
+
